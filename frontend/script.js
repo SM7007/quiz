@@ -1,6 +1,6 @@
 // API Configuration
 // Use local IP address to allow mobile access on same network
-const API_BASE_URL = 'http://10.89.89.125:8000/api';
+const API_BASE_URL = 'https://quiz-djvw.onrender.com';
 
 // Quiz Questions
 const quizQuestions = [
